@@ -1,6 +1,8 @@
 # HR-Dashboard-Tableau-
 User Story - HR Dashboard As an HR manager, I want a comprehensive dashboard to analyze human resources data, providing both summary views for high-level insights and detailed employee records for in-depth analysis.
 
+View on Tableau Public: https://public.tableau.com/views/HRDashboard_17324713244780/HRSummary?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 # Summary View
 
 The summary view should be divided into three main sections: Overview, Demographics, and Income Analysis
